@@ -23,7 +23,7 @@ def einstellungen():
    print('')
    print('###################################################################################')
    print('')
-   print("Wollen sie die Enstellungen des Mailspammers/Mailprogramms ändern (y/n) ? 'y'")
+   print("Wollen sie die Einstellungen des Mailspammers/Mailprogramms ändern (y/n) ? 'y'")
    print('')
    print('###################################################################################')
    print('')
@@ -649,7 +649,7 @@ nochmal = input('>>> ')
 
 
 if nochmal == 'y':
-   subprocess.call(['python', 'Mail_Spam_oeffentlich.py'])
+   subprocess.call(['python', 'Mail_Client.py'])
 
 else:
    os.system(m)
