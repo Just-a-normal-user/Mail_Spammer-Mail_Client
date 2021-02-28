@@ -3,7 +3,7 @@ Ein Mail Programm für den alltäglichen Gebrauch zum schnellen und einfachen Ve
 
  ##############################################################################################################################################
 
- Wir übernehmen keinerlei Verantwortung für das illegale Aktivitätetn mit diesem Programm.
+ Wir übernehmen keinerlei Verantwortung für das illegale Aktivitäten mit diesem Programm.
  Mit dem Herunterladen dieses Programmes übernehmen sie die volle Verantwortung für ihren Umgang mit diesem Programm.
 
  ##############################################################################################################################################
